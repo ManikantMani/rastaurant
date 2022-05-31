@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rastaurant/static/css/main.280b5954.css",
+    "main.js": "/rastaurant/static/js/main.4a841e81.js",
+    "static/media/res1.png": "/rastaurant/static/media/res1.3b76cd2a83b022b65587.png",
+    "index.html": "/rastaurant/index.html",
+    "main.280b5954.css.map": "/rastaurant/static/css/main.280b5954.css.map",
+    "main.4a841e81.js.map": "/rastaurant/static/js/main.4a841e81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.280b5954.css",
+    "static/js/main.4a841e81.js"
+  ]
+}
