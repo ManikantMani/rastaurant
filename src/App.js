@@ -10,6 +10,7 @@ const App = () => {
       <div className="App">
       <Routes>
       <Route  path = "/" element = {<Home />} />
+      <Route  path = "/rastaurant" element = {<Home />} />
       </Routes>
       </div>
     </>
