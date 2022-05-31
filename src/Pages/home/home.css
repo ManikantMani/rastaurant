@@ -1,0 +1,22 @@
+.home, .home_main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between ;
+    /* margin: 2rem; */
+}
+.home {
+    background-color: rgb(209, 209, 252);
+}
+.navbar{
+    /* border: solid 3px red; */
+    width: 20vw;
+}
+.item {
+    width: 50vw;
+    /* border: solid 3px black; */
+}
+.selectItem {
+    width: 30vw;
+    /* border: solid 3px green; */
+}

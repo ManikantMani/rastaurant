@@ -1,0 +1,138 @@
+.item_container {
+    /* border: solid 2px yellowgreen; */
+    width: 100%;
+    height: 90vh;
+    margin: 2.25rem 0rem;
+    background-color: #fff;
+}
+.item_container {
+    /* border: solid 2px yellowgreen; */
+}
+.item_filter {
+    /* border: solid 2px red; */
+    text-align: right;
+    margin-right: 1rem;
+    margin-top: 1rem;
+}
+.item_filter > button {
+    margin: 0.35rem 0;
+    margin-right: 0.5rem;
+    border: none;
+    border-radius: 0.4rem;
+    height: 2rem;
+    font-weight: bold;
+}
+.item_filter > i {
+    margin-right: 5px;
+}
+.item_all {
+    /* border: solid 2px black; */
+    margin-top: 4vh;
+    margin-left: 3.5rem;
+}
+.shortby {
+    /* border: solid 2px yellowgreen; */
+    text-align: right;
+    margin-right: 1.3rem;
+}
+.shortby > select {
+    font-weight: bold;
+    border-radius: 10px;
+}
+.item_card_contaier {
+    /* border: solid 2px red; */
+    display: inline-flex;
+    width: 12.5vw;
+    height: 20vh;
+    margin: 0.8rem;
+    padding: 0.6rem;
+    border-radius: 1.4rem;
+    background-color: rgb(82, 236, 120, 0.74);
+    cursor: pointer;
+}
+.item_card_contaier:hover {
+    box-shadow: 3px 4px 13px rgb(82, 236, 120, 0.74);
+}
+.item_card {
+    /* border: solid 2px black; */
+    width: 100%;
+    min-height: 100%;
+}
+.item_rat_fav_box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.item_rat_box {
+    background-color: rgb(228, 225, 222);
+    padding: 2px;
+    width: 40px;
+    font-size: 10px;
+    height: 25px;
+    background-color: black;
+    align-items: center;
+    border-radius: 1rem;
+}
+.item_rat {
+
+}
+.item_star {
+    color: yellow;
+}
+.item_star_num {
+    font-weight: 300;
+    color: #fff;
+    font-size: 12px;
+    margin-left: 5px;
+}
+.item_fav_button {
+    
+}
+.fav_button {
+    border: none;
+    border-radius: 50%;
+    color: #fff;
+    background-color: rgb(214, 214, 214);
+}
+.fav_button:hover {
+    color: red;
+}
+.item_image {
+
+}
+.item_img {
+    width: 2.5rem;
+    height: 2rem;
+    margin: 0px 0;
+    margin-left: 3.5vw;
+    border-radius: 50%;
+    transition: 1s;
+    cursor: pointer;
+}
+.item_img:hover {
+    width: 3rem;
+    height: 3rem;
+}
+.item_name {
+    display: flex;
+    justify-content: space-between;
+}
+.i_name {
+    font-weight: bold;
+    font-size: 14px;    
+    margin-top: 10px;
+}
+.itemcal {
+    margin-left: 10px;
+    background-color: rgb(216, 211, 211);
+    color: rgb(104, 104, 104);
+    padding: 3px;
+    padding-left: 7px;
+    width: 2.5rem;
+    font-size: 12px;
+    border-radius: 1rem;
+}
+.item_price {
+    font-weight: bolder;
+    font-size: 1.1rem;
+}

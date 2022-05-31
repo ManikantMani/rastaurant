@@ -1,0 +1,36 @@
+.nav_container {
+    /* border: solid 2px red; */
+    width: 90%;
+    height: 90vh;
+    margin-left: 2rem;
+    border-top-left-radius: 2.5rem;
+    border-bottom-left-radius: 2.5rem;
+    background-color: rgba(82, 236, 120, 0.74);
+}
+.nav_main {
+    border: solid 2px transparent;
+    width: 80%;
+    margin-left: 3.6vw;
+    margin-top: 15vh;
+    height: 2.5rem;
+    border-top-left-radius: 2.5rem;
+    border-bottom-left-radius: 2.5rem;
+    background-color: #fff;
+    font-size: 1rem;
+    font-weight: 700;
+}
+.nav_bar {
+    /* border: solid 2px red; */
+    margin-left: 1.5rem;
+    margin-top: 0.4rem;
+    display: flex;
+    align-items: center;
+    color: rgba(22, 182, 62, 0.74);
+
+}
+.nav_icons {
+    
+}
+.nav_name {
+    padding-left: 0.6rem;
+}
